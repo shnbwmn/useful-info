@@ -1,2 +1,6 @@
-# useful-info
-List of handy tips and tricks.
+
+# Useful Info
+
+> List of handy tips and tricks.
+
+
